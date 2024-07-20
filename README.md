@@ -27,7 +27,7 @@ AquaR.IoT ES SEC represents a remarkable integration of cutting-edge technologie
 
 ## Easy way: One command setup
 
-- clone this repo: <code>https://github.com/brataccas99/acquar.iot-es</code>
+- clone this repo: <code>https://github.com/brataccas99/acquariot-es-sec</code>
 
 - modify the wifi ssid, services credentials and bot charachteristics
 
