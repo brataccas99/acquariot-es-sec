@@ -1,4 +1,4 @@
-# AquaR.IoT ES: A Serverless Enhanced Aquarium with IoT ESP32 Board, AWS Services, and Telegram Integration
+# AquaR.IoT ES SEC: A Secured, Serverless, Enhanced Aquarium with IoT ESP32 Board, AWS Services, and Telegram Integration
 
 ![abstract](./images/acquariot.png)
 
